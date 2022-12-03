@@ -100,7 +100,13 @@ Same Image we push to dockerhub :)
 
 ![20](https://user-images.githubusercontent.com/68898478/205449008-33e627cf-2c58-4027-bacb-d0e3711a8b90.png) 
 
+# Your Image Uploaded 
+
+![21](https://user-images.githubusercontent.com/68898478/205449266-1b2b3f4e-4295-4f6e-a16e-ea21d9c1c7cb.png)
+
+# Congratulations!, now you can pull and run this Image  
 
 
 
+![22](https://user-images.githubusercontent.com/68898478/205449377-6c8f2854-3aa3-4fb9-8d96-e86765d74d47.png)
 
