@@ -41,7 +41,41 @@ To view the output of the static webpage content inside the terminal, enter the 
 We can now build our image with the Dockerfile we just created. I will name my new image my_nginx.
 enter the command:
 
-![9](https://user-images.githubusercontent.com/68898478/205446772-c20bbe62-4916-47c5-ae9e-2a75cb2948ff.png)
+![9](https://user-images.githubusercontent.com/68898478/205446772-c20bbe62-4916-47c5-ae9e-2a75cb2948ff.png) 
+
+
+-t is used to tag the new image
+. is used to specify the current directory (DO NOT FORGET THIS) 
+
+And then, we can verify the image was created using the command:
+
+![11](https://user-images.githubusercontent.com/68898478/205447113-a1066d2a-ee1a-45a2-9649-2df755985d3f.png)
+
+![12](https://user-images.githubusercontent.com/68898478/205447185-43910afe-4564-4965-a86f-8640bf5a313a.png)
+
+Looking at the image above, you can see we successfully created the new image mohamad_nginx, but why do we have an nginx image? Because that is the image we pulled down from DockerHub, as a reference, specified in Line 1 of our Dockerfile. 
+
+# Step 5: Create and Deploy Container 
+
+Time to create our container with the new image we just created. To do this, enter the command:
+
+![13](https://user-images.githubusercontent.com/68898478/205447303-a979adab-4167-4275-87be-9fe0b791eff5.png)
+
+-d stands for detached, which means that our Docker container is running in the background of our terminal
+- -name lets us name the container
+-p stands for publish, which is a way of mapping our running container port (8080) to the host port (80)
+
+![14](https://user-images.githubusercontent.com/68898478/205447475-9bb58524-b4e4-448c-a2b3-802da2052fbf.png) 
+
+From the image above, we can see the container was created; however, let’s verify that the container is running. To do this, enter the command:
+
+![15](https://user-images.githubusercontent.com/68898478/205447557-b04dec67-feda-456f-87e6-a53454860d81.png)
+
+
+![16](https://user-images.githubusercontent.com/68898478/205447562-c96bd7ef-fb69-434f-a01e-20234ab1feb7.png) 
+
+Great! We now have our container running, so let’s go check out the static webpage.
+
 
 
 
