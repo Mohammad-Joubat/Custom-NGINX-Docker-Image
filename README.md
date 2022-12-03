@@ -76,6 +76,16 @@ From the image above, we can see the container was created; however, let’s ver
 
 Great! We now have our container running, so let’s go check out the static webpage.
 
+# Containerize and push your Image to DockerHub 
+
+enter the commands:
+
+1.	Docker login ->  your username +password in dockerhub
+
+2.	Docker tag [image name ] [username(dockerhub)/new_image_name]
+
+3.	Docker push [username(dockerhub)/new_image_name]
+
 
 
 
