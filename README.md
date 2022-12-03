@@ -92,11 +92,11 @@ enter the commands:
 
 ![18A](https://user-images.githubusercontent.com/68898478/205448995-7c2763e2-1c64-449b-8a81-64c1fd1d0153.png) 
 
+Same Image we push to dockerhub :)
+
 
 ![19](https://user-images.githubusercontent.com/68898478/205448998-5a97654e-c69e-4605-a54f-804683ce37bf.png) 
-
-# Same Image we push to dockerhub :) 
-
+ 
 
 ![20](https://user-images.githubusercontent.com/68898478/205449008-33e627cf-2c58-4027-bacb-d0e3711a8b90.png) 
 
