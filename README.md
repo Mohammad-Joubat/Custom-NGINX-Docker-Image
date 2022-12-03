@@ -28,5 +28,22 @@ To view the output of the static webpage content inside the terminal, enter the 
 
 ![6](https://user-images.githubusercontent.com/68898478/205446161-395189c1-06d1-4e48-b5eb-bf4577ea71fa.png)
 
+# Step 3: Create Dockerfile 
+
+![7](https://user-images.githubusercontent.com/68898478/205446555-59d52040-185b-41e6-9b2a-b920cac3b42d.png) 
+
+
+
+![8](https://user-images.githubusercontent.com/68898478/205446586-3243f4b6-f614-46e2-9c66-cad2d52cdeb9.png) 
+
+# Step 4: Build Image 
+
+We can now build our image with the Dockerfile we just created. I will name my new image my_nginx.
+enter the command:
+
+![9](https://user-images.githubusercontent.com/68898478/205446772-c20bbe62-4916-47c5-ae9e-2a75cb2948ff.png)
+
+
+
 
 
