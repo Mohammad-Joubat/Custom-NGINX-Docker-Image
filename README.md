@@ -87,7 +87,16 @@ enter the commands:
 3.	Docker push [username(dockerhub)/new_image_name]
 
 
+![17](https://user-images.githubusercontent.com/68898478/205448986-f1f757c5-b488-4ffe-b0b2-b084f9eb474a.png)
 
+
+![18A](https://user-images.githubusercontent.com/68898478/205448995-7c2763e2-1c64-449b-8a81-64c1fd1d0153.png) 
+
+
+![19](https://user-images.githubusercontent.com/68898478/205448998-5a97654e-c69e-4605-a54f-804683ce37bf.png) 
+
+
+![20](https://user-images.githubusercontent.com/68898478/205449008-33e627cf-2c58-4027-bacb-d0e3711a8b90.png)
 
 
 
