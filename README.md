@@ -95,8 +95,12 @@ enter the commands:
 
 ![19](https://user-images.githubusercontent.com/68898478/205448998-5a97654e-c69e-4605-a54f-804683ce37bf.png) 
 
+# Same Image we push to dockerhub :) 
 
-![20](https://user-images.githubusercontent.com/68898478/205449008-33e627cf-2c58-4027-bacb-d0e3711a8b90.png)
+
+![20](https://user-images.githubusercontent.com/68898478/205449008-33e627cf-2c58-4027-bacb-d0e3711a8b90.png) 
+
+
 
 
 
