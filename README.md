@@ -7,3 +7,19 @@ I needs to deploy a custom image quickly and write a quick script in a file to a
 # Step 1: New directory 
 
 ![1](https://user-images.githubusercontent.com/68898478/205445417-00816042-2969-4986-92c6-7bf9a27bab8c.png)
+
+List all the directories : 
+
+
+
+
+Step 1: New directory
+Let’s make a new directory and name it.
+
+$ mkdir <new_directory>
+List all the directories.
+
+$ ls
+Now change into the new directory.
+
+$ cd <new_directory>
